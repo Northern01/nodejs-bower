@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-bower",
+  "description": "",
+  "main": "",
+  "authors": [
+    "BruceChen <zhenchen@nltechdev.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "d3": "^3.5.17",
+    "bootstrap": "^3.3.6",
+    "jquery": "1.7.2"
+  }
+}
